@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>eitapi</groupId>
-  <artifactId>01-maven-web-app</artifactId>
+  <artifactId>01-anilart</artifactId>
   <packaging>war</packaging>
   <version>3.9-RELEASE</version>
   <name>eitapp</name>
@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>maven-web-app</finalName>
+    <finalName>anil</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
